@@ -45,7 +45,7 @@ npm install express axios
 # Project Structure
 
 ```bash
-thinkany-api/
+Ai/
 │
 ├── index.js
 ├── package.json
