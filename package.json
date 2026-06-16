@@ -13,7 +13,7 @@
     "express",
     "axios"
   ],
-  "author": "Kawser444",
+  "author": "Aryan",
   "license": "MIT",
   "dependencies": {
     "express": "^4.18.2",
